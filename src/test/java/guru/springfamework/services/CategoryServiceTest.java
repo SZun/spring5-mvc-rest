@@ -60,4 +60,5 @@ public class CategoryServiceTest {
 
         assertEquals(expectedCategeoryDto, fromService);
     }
+
 }
